@@ -40,10 +40,5 @@ src="https://img.shields.io/github/followers/ItisSubham?logo=github&style=for-th
   <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGpveDUyM2VrZHpzM3N6dHlwbGVtcWIyc3Y1eWJ4OW1vbXhrMnU1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LXxWO0pgGEma8W40A9/giphy.gif"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/ItisSubham/ItisSubham/output/snake.svg" alt="Snake animation" />
-
-###
 
 <br /><br /><br /><br /><br /><br /><br />
