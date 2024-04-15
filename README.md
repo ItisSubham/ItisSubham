@@ -32,6 +32,3 @@ src="https://img.shields.io/github/followers/ItisSubham?logo=github&style=for-th
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ItisSubham&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
-
-<br /><br /><br /><br /><br /><br /><br />
