@@ -12,6 +12,8 @@ I like Coding and Designing.
 * 🧠  I'm learning Next.js, Kotlin
 * 🤝  I'm open to collaborating on Intersting Projects
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itissubham&label=Profile%20views&color=0e75b6&style=flat" alt="itissubham" /> </p>
+
 <a href="https://www.github.com/ItisSubham" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ItisSubham?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a>
 
