@@ -43,9 +43,4 @@ src="https://img.shields.io/github/followers/ItisSubham?logo=github&style=for-th
 
 <a href="https://github.com/ItisSubham" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItisSubham&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGpveDUyM2VrZHpzM3N6dHlwbGVtcWIyc3Y1eWJ4OW1vbXhrMnU1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LXxWO0pgGEma8W40A9/giphy.gif"  />
-</div>
-
-
 <br /><br /><br /><br /><br /><br /><br />
